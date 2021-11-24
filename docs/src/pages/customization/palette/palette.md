@@ -65,8 +65,7 @@ const theme = createTheme({
 });
 ```
 
-### Providing the colors directly
-
+### Providing the colors directl
 If you wish to provide more customized colors, you can either create your own palette color,
 or directly supply colors to some or all of the `theme.palette` keys:
 
@@ -130,7 +129,7 @@ Note that "contrastThreshold" follows a non-linear curve.
 
 ### Adding new colors
 
-You can add new colors inside and outside the palette of the theme as follow:
+You can add new colors inside and outside the palette of the theme as follows:
 
 ```js
 import { createTheme } from '@mui/material/styles';
